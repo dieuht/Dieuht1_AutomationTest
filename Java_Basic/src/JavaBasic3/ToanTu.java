@@ -1,6 +1,4 @@
-package Homework_JavaBasic3;
-
-import java.sql.SQLOutput;
+package JavaBasic3;
 
 public class ToanTu {
     public static void main(String[] args) {

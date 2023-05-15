@@ -1,4 +1,4 @@
-package Homework_JavaBasic3;
+package JavaBasic3;
 
 public class IF_ELSE {
     static int number = 100;
