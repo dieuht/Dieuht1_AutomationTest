@@ -34,7 +34,6 @@ class NhanVien {
         System.out.println("Địa chỉ: " + address);
         System.out.println("Lớp học: " + department);
         System.out.println("--------------------------");
-        //return "Tên Nhân viên: " + name + " Tuổi: " + age + "Địa chỉ: " + address + "Lớp học: " + department;
     }
 
 }
