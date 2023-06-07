@@ -19,11 +19,11 @@ public class person {
         return gender;
     }
 
-    public String getAddress() {
+    protected String getAddress() {
         return address;
     }
 
-    public String getPhone() {
+    protected String getPhone() {
         return phone;
     }
 
